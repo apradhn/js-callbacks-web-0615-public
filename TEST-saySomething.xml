@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="3" errors="0" failures="0" time="0.008" timestamp="2015-07-16T11:56:04">
+		<testcase classname="saySomething" name="says hello when callback is sayHello" time="0.004">
+		</testcase>
+		<testcase classname="saySomething" name="says goodbye when callback is sayGoodbye" time="0">
+		</testcase>
+		<testcase classname="saySomething" name="says hello when callback is sayHappyBirthday" time="0">
+		</testcase>
+	</testsuite>
+</testsuites>
+
